@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Campus-companion",
-    "slug": "Campus-companion",
+    "name": "campus-companion",
+    "slug": "campus-companion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
